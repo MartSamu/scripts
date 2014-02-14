@@ -1,0 +1,10 @@
+     17  logout
+     19  emacs MartinL03.cpp
+     21  ./test.out
+     23  cd ..
+     24  g++ MartinL03.cpp -o L03.out
+     26  emacs Lab05.h
+     29  g++ Lab05.cpp -o L05.out
+     50  emacs readfile.cpp
+     56  g++ readfile.cpp -o test.out
+     65  ls
